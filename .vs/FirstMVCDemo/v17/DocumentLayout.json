@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yaramada.venugopal\\source\\repos\\FirstMVCDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6DD4905-FF63-45CC-A612-2CCBB1ED9D1D}|FirstMVCDemo\\FirstMVCDemo.csproj|c:\\users\\yaramada.venugopal\\source\\repos\\firstmvcdemo\\firstmvcdemo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6DD4905-FF63-45CC-A612-2CCBB1ED9D1D}|FirstMVCDemo\\FirstMVCDemo.csproj|solutionrelative:firstmvcdemo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6DD4905-FF63-45CC-A612-2CCBB1ED9D1D}|FirstMVCDemo\\FirstMVCDemo.csproj|c:\\users\\yaramada.venugopal\\source\\repos\\firstmvcdemo\\firstmvcdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6DD4905-FF63-45CC-A612-2CCBB1ED9D1D}|FirstMVCDemo\\FirstMVCDemo.csproj|solutionrelative:firstmvcdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6DD4905-FF63-45CC-A612-2CCBB1ED9D1D}|FirstMVCDemo\\FirstMVCDemo.csproj|c:\\users\\yaramada.venugopal\\source\\repos\\firstmvcdemo\\firstmvcdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6DD4905-FF63-45CC-A612-2CCBB1ED9D1D}|FirstMVCDemo\\FirstMVCDemo.csproj|solutionrelative:firstmvcdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6DD4905-FF63-45CC-A612-2CCBB1ED9D1D}|FirstMVCDemo\\FirstMVCDemo.csproj|c:\\users\\yaramada.venugopal\\source\\repos\\firstmvcdemo\\firstmvcdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6DD4905-FF63-45CC-A612-2CCBB1ED9D1D}|FirstMVCDemo\\FirstMVCDemo.csproj|solutionrelative:firstmvcdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6DD4905-FF63-45CC-A612-2CCBB1ED9D1D}|FirstMVCDemo\\FirstMVCDemo.csproj|c:\\users\\yaramada.venugopal\\source\\repos\\firstmvcdemo\\firstmvcdemo\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6DD4905-FF63-45CC-A612-2CCBB1ED9D1D}|FirstMVCDemo\\FirstMVCDemo.csproj|solutionrelative:firstmvcdemo\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\yaramada.venugopal\\source\\repos\\FirstMVCDemo\\FirstMVCDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\yaramada.venugopal\\source\\repos\\FirstMVCDemo\\FirstMVCDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FirstMVCDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T14:25:10.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yaramada.venugopal\\source\\repos\\FirstMVCDemo\\FirstMVCDemo\\Program.cs",
+              "RelativeDocumentMoniker": "FirstMVCDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\yaramada.venugopal\\source\\repos\\FirstMVCDemo\\FirstMVCDemo\\Program.cs",
+              "RelativeToolTip": "FirstMVCDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T13:54:48.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\yaramada.venugopal\\source\\repos\\FirstMVCDemo\\FirstMVCDemo\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "FirstMVCDemo\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\yaramada.venugopal\\source\\repos\\FirstMVCDemo\\FirstMVCDemo\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "FirstMVCDemo\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T13:53:34.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\yaramada.venugopal\\source\\repos\\FirstMVCDemo\\FirstMVCDemo\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "FirstMVCDemo\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\yaramada.venugopal\\source\\repos\\FirstMVCDemo\\FirstMVCDemo\\Models\\Student.cs",
+              "RelativeToolTip": "FirstMVCDemo\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T13:51:39.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\yaramada.venugopal\\source\\repos\\FirstMVCDemo\\FirstMVCDemo\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "FirstMVCDemo\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\yaramada.venugopal\\source\\repos\\FirstMVCDemo\\FirstMVCDemo\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "FirstMVCDemo\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T13:50:49.443Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
